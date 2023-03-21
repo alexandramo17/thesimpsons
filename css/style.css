@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+  } 
+body {
+      margin: 0;
+      padding: 0;
+      background-color: rgb(255, 217, 15);
+  }
+.container{
+    width: 100%;
+    height: 100vh;
+  }
+  li{
+    font-size: 2vh;
+  }
+  .btn{
+    border-color: aliceblue;
+   color: aliceblue;
+  }
+.logo {
+    width: 90px;
+  }
+  .pollito{
+    margin-top: 2rem;
+    width: 50%;
+  }
+  .poll{
+    width: 30%;
+  }
+  .hola {
+    width: 60%;
+  }
+  .holi{
+    width: 30%;
+  }
+  .perro {
+    width: 45%;
+  }
+  .gato {
+    width: 45%;
+  }
+  .rata {
+    width: 30%;
+  }
+  .nene {
+    width: 50%;
+  }
+  .nee{
+    width: 30%;
+  }
+  .donaa {
+    margin-top: 2rem;
+  }
+  h1 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  }
+  p{
+    font-family: 'Indie Flower', cursive;
+  }
+  .mujer {
+    margin-top: 5rem;
+  }
+  .niños {
+    margin-top: 5rem;
+  }
+  .bebe {
+    margin-top: 5rem;
+  }
+  .uno {
+    background-color: black;
+    color: rgb(255, 255, 255);
+  }
+  .footer {
+    background-color: rgb(255, 217, 15);
+    margin-top: 5rem;
+  }
+  .dos {
+    width: 80%;
+  }
+  .instagram {
+    width: 20%;
+  }
+  p{
+    text-align: center;
+  }
+  
